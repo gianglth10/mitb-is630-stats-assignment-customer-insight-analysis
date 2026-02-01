@@ -9,3 +9,6 @@ IS630 Statistical Thinking in Data Science Assignment
 ## Tech Stack
 - Python, Jupyter
 - pandas, matplotlib
+
+## Completion
+Completed: October 2025
